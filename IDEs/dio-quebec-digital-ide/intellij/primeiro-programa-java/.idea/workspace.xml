@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06386562-fd06-4a38-a5c2-522ccf959669" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../Variaveis&amp;Tipos&amp;Operadores/Projetos/variaveis/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Variaveis&amp;Tipos&amp;Operadores/Projetos/variaveis/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Variaveis&amp;Tipos&amp;Operadores/Projetos/variaveis/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Variaveis&amp;Tipos&amp;Operadores/Projetos/variaveis/src/App.java" beforeDir="false" />
+    <list default="true" id="6fa419e2-e4b7-40b6-8f01-b6bc432cf812" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2G2nUCmtqsHEN2w8ze0r7c74nlR" />
+  <component name="ProjectId" id="2G2xPV3VyajXOeK0z4q4mDf8NA8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,11 +34,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="br.com.dio" />
-    </key>
-  </component>
   <component name="RunManager" selected="Application.Calculadora">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.Calculadora" />
@@ -79,11 +71,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="06386562-fd06-4a38-a5c2-522ccf959669" name="Changes" comment="" />
-      <created>1665595561997</created>
+      <changelist id="6fa419e2-e4b7-40b6-8f01-b6bc432cf812" name="Changes" comment="" />
+      <created>1665600456042</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665595561997</updated>
+      <updated>1665600456042</updated>
     </task>
     <servers />
   </component>
