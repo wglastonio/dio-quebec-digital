@@ -1,9 +1,9 @@
-import java.util.List;
-
-public class Bank {
-    
+public class Client {
     private String name;
-    private List<Conta> contas;
+
+    public Client(String name) {
+        this.name = name;
+    }
 
     public String getName() {
         return name;
@@ -11,7 +11,5 @@ public class Bank {
 
     public void setName(String name) {
         this.name = name;
-    }
-    
-
+    }    
 }
